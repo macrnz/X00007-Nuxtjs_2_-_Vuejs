@@ -1,0 +1,58 @@
+[
+  {
+    "name": "about",
+    "path": "/about",
+    "component": "/Users/markrenzcarillo/Documents/Jobs/X00007-Nuxtjs_2_-_Vuejs/Lesson003-Project_-_Page_Routing_and_Views/pages/about/index.vue",
+    "chunkName": "pages/about/index",
+    "_name": "_615e209a"
+  },
+  {
+    "name": "admin",
+    "path": "/admin",
+    "component": "/Users/markrenzcarillo/Documents/Jobs/X00007-Nuxtjs_2_-_Vuejs/Lesson003-Project_-_Page_Routing_and_Views/pages/admin/index.vue",
+    "chunkName": "pages/admin/index",
+    "_name": "_6e63b5dc"
+  },
+  {
+    "name": "posts",
+    "path": "/posts",
+    "component": "/Users/markrenzcarillo/Documents/Jobs/X00007-Nuxtjs_2_-_Vuejs/Lesson003-Project_-_Page_Routing_and_Views/pages/posts/index.vue",
+    "chunkName": "pages/posts/index",
+    "_name": "_3af25960"
+  },
+  {
+    "name": "admin-auth",
+    "path": "/admin/auth",
+    "component": "/Users/markrenzcarillo/Documents/Jobs/X00007-Nuxtjs_2_-_Vuejs/Lesson003-Project_-_Page_Routing_and_Views/pages/admin/auth/index.vue",
+    "chunkName": "pages/admin/auth/index",
+    "_name": "_389cd2de"
+  },
+  {
+    "name": "admin-new-post",
+    "path": "/admin/new-post",
+    "component": "/Users/markrenzcarillo/Documents/Jobs/X00007-Nuxtjs_2_-_Vuejs/Lesson003-Project_-_Page_Routing_and_Views/pages/admin/new-post/index.vue",
+    "chunkName": "pages/admin/new-post/index",
+    "_name": "_2075f456"
+  },
+  {
+    "name": "admin-postId",
+    "path": "/admin/:postId",
+    "component": "/Users/markrenzcarillo/Documents/Jobs/X00007-Nuxtjs_2_-_Vuejs/Lesson003-Project_-_Page_Routing_and_Views/pages/admin/_postId/index.vue",
+    "chunkName": "pages/admin/_postId/index",
+    "_name": "_1e11ef07"
+  },
+  {
+    "name": "posts-id",
+    "path": "/posts/:id",
+    "component": "/Users/markrenzcarillo/Documents/Jobs/X00007-Nuxtjs_2_-_Vuejs/Lesson003-Project_-_Page_Routing_and_Views/pages/posts/_id/index.vue",
+    "chunkName": "pages/posts/_id/index",
+    "_name": "_5780776a"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "/Users/markrenzcarillo/Documents/Jobs/X00007-Nuxtjs_2_-_Vuejs/Lesson003-Project_-_Page_Routing_and_Views/pages/index.vue",
+    "chunkName": "pages/index",
+    "_name": "_78b0921c"
+  }
+]
